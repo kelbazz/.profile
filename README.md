@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**Kodbaz/Kodbaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img width=400 src="https://kodbaz.github.io/assets/svg/loko_graph.svg">](https://kodbaz.github.io)
+## _Dev, Graphist and French croissant._
 
-Here are some ideas to get you started:
+| The languages i code with |      My work config      |
+|:-------------------------:|:------------------------:|
+|          Rust 🦀          |  Windows 10 / Debian 💻 |
+|       Javascript 🟨       |  Visual Studio Code 👨‍💻  |
+|       HTML / CSS 🌐       |  Figma / Inkscape 🎨    |
+|         Python 🐍         |  <!--      yay      -->  |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=kodbaz&hide_rank=true&show_icons=true&include_all_commits=true&line_height=25&hide_border=true&bg_color=0f1020&text_color=0099ff&icon_color=0099ff&title_color=0099ff&custom_title=My%20stats%20on%20Github" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kodbaz&langs_count=8&layout=compact&hide_border=true&bg_color=0f1020&text_color=0099ff&icon_color=0099ff&title_color=0099ff&custom_title=In%20what%20languages%20do%20I%20code%20?" />
+
+</div>
