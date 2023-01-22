@@ -1,7 +1,7 @@
 <div align="center">
 
 [<img width=400 src="https://kodbaz.github.io/assets/svg/loko_graph.svg">](https://kodbaz.github.io)
-## _Dev, Graphist and French croissant._
+## _Dev, Designer and French croissant._
 
 | The languages i code with |      My work config      |
 |:-------------------------:|:------------------------:|
